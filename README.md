@@ -1,6 +1,6 @@
 ![I am souravdas79](https://github.com/souravdas79/souravdas79/blob/main/code.png)
-<h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
+<h1 align="center">Hi 👋, I'm Sourav Das</h1>
+<h3 align="center">Programmer | Web Designer | Graphic Designer | UI/UX Designer </h3>
 <h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
 
 <div align="center">
