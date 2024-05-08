@@ -7,7 +7,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=souravdas79&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: Next JS / SASS / Java / Tailwind CSS / BOOTSTRAP / REACT / JS / HTML / CSS
 
 </div>
 
