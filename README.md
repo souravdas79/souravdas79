@@ -11,19 +11,18 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently working on Ui Designer
 
-- 🌱 I’m currently learning Golang, Java, C++
-
+- 🌱 I’m currently learning Mern Stack developer
 - 👨‍💻 All of my projects are available at [https://github.com/souravdas79](https://github.com/souravdas79)
 
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
+- 📝 I regularly write articles on **Website coming soon**
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
-- 📫 How to reach me **programmerharun@gmail.com**
+- 📫 How to reach me **souravdas7771@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
+- 📄 All About Me:https://www.behance.net/souravdas79
 
 <h3 align="left">Connect with me:</h3>
 
