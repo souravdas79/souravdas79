@@ -13,7 +13,7 @@ Skills: Next JS / SASS / Java / Tailwind CSS / BOOTSTRAP / REACT / JS / HTML / C
 
 - 🔭 I’m currently working on Ui Designer
 
-- 🌱 I’m currently learning Mern Stack developer
+- 🌱 I’m currently learning **Mern Stack developer**
 - 👨‍💻 All of my projects are available at [https://github.com/souravdas79](https://github.com/souravdas79)
 
 - 📝 I regularly write articles on **Website coming soon**
