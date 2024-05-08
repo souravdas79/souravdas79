@@ -1,7 +1,7 @@
 ![I am souravdas79](https://github.com/souravdas79/souravdas79/blob/main/code.png)
 <h1 align="center">Hi 👋, I'm Sourav Das</h1>
 <h3 align="center">Programmer | Web Designer | Graphic Designer | UI/UX Designer </h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h4 align="center">UI/UX Designer & Developer</h4>
 
 <div align="center">
 
@@ -61,13 +61,6 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
-
-## Best Repo -
-
-[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=souravdas79&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/souravdas79/Java-Project)
-[![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=souravdas79&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/souravdas79/100_plus_C_Problems)
-[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=souravdas79&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/souravdas79/front_end_projects)
-[![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=souravdas79&repo=weblitical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/souravdas79/weblitical)
 
 <p align="left">
   <a href="https://github.com/souravdas79?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
